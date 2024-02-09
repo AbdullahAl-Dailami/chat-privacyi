@@ -25,6 +25,7 @@ Unity  -  https://unity3d.com/legal/privacy-policy
 Admob  - https://policies.google.com/privacy
 
 
+
 للتواصل معنا
 
 اذا كانت لديك أي استفسارات او مقترحات حول سياسة الخصوصية هذه لا تتردد في التواصل
